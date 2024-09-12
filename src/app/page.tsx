@@ -113,6 +113,7 @@ export default function Home() {
           );
         })}
       </div>
+        <h3 className="text-right text-white text-sm">Made by: Huzaifa Ayub</h3>
     </div>
   );
 }
